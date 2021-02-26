@@ -78,7 +78,7 @@ print(max(a))
 print("Python List min()")
 a=[1,2,5,24,62]
 print(a)
-print(max(a))
+print(min(a))
 
 print("Python List pop(index)")
 a=[1,2,5,24,62]
