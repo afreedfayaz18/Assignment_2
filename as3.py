@@ -62,6 +62,7 @@ print('Updated List:', systems)
 print()
 print("Python List sort()")
 vowels = ['e', 'a', 'u', 'o', 'i']
+print(vowels)
 vowels.sort()
 print('Sorted list:', vowels)
 print()
